@@ -1,6 +1,6 @@
 # Zetrox Minecraft Szerver - BuildFFA minigame
 
-Zetrox letöltése(Google Drive): 
+Zetrox letöltése(Google Drive): https://drive.google.com/file/d/1zuiJqeFnj2VGw-DG6xeqSS8Gk8-qjvof/view?usp=sharing
 A Zetrox feltelepítéséhez nem szolgál útmutató! Saját magadnak kell feltelepítened!
 A Zetrox **NEM** fog frissítéseket kapni a jövőben!
 
